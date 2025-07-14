@@ -1,5 +1,7 @@
 AutoCalypsoBTS.V2 For DragonOS 📱📞
 
+![image alt](https://github.com/Mini0com/AutoCalypsoBTS-DragonOS/blob/1606eb5227ae0f152382f9ba77dabb371547a4a1/autocalypsobts/ico.png)
+
 A simple GUI CalypsoBTS for DragonOS by Mini0com Alrayane
 
 Download DragonOS https://cemaxecuter.com/
