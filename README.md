@@ -35,13 +35,13 @@ cd autocalypsobts && sudo python3 autobts.py
 
 ❗️ If u use only 1 phone click TRX1 ❗️
 
-❗️ If u use 2 phones click TRX1 then TRX2 + edit Clock setting (add key -2) ❗️
+❗️ If u use 2 phones click TRX1 then TRX2 + edit Clock setting (add key -2)
 
 ✔️ Correct application launch sequence: TXR1 or TRX1 + TRX2 > Clock > DB > BTS
 
 🟡 Test SMS: Sends Test SMS from number 111 to all subscribers
 
-🟣 Subscribers show: ID, IMSI, Phone Number
+🟣 Subscribers show: ID, IMSI, MSISDN, IMEI, TMSI, Timestamp, mcc-mnc-type,
 
 ⚙️ - Settings Bash Scripts
 
