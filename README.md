@@ -3,7 +3,9 @@ AutoCalypsoBTS.V2 For DragonOS 📱📞
 A simple GUI CalypsoBTS for DragonOS by Mini0com Alrayane
 
 Download DragonOS https://cemaxecuter.com/
+
 Download Mini0comOS https://t.me/mini0com
+
 Write suggestions on what to add or change in Issues
 
 ⚠️ Alert ⚠️:
