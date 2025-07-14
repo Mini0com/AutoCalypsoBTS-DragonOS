@@ -16,6 +16,8 @@ Install :
 
 git clone https://github.com/Mini0com/AutoCalypsoBTS-DragonOS.git && cd AutoCalypsoBTS-DragonOS && sudo bash install.sh
 
+![image alt](https://github.com/Mini0com/AutoCalypsoBTS-DragonOS/blob/a3975d3e4903634b2407f6da9ac54f643bbd5285/screen.jpg)
+
 GUI start :
 
 cd autocalypsobts && sudo python3 autobts.py
